@@ -1,7 +1,9 @@
 # SAT Raw Score Converter
-SAT Scores typically vary by difficulty, in other words, each and every test utilizes a different scoring system. This is just an approximation of what score you'll get. :)
+📝✏️✎✐✏︎ SAT Scores typically vary by difficulty, in other words, each and every test utilizes a different scoring system. This is just an approximation of what score you'll get. :)
+
 This is the table I used for the convertion:
-[![SAT table](https://github.com/jeremygautama/SAT-Raw-Score-Converter/images/SATTable.png)]()
+
+![SAT table](https://github.com/jeremygautama/SAT-Raw-Score-Converter/images/SATTable.png)
 
 ```bash
 readingRawScore = int(input("Input your Reading raw score (0-52): "))
@@ -55,7 +57,7 @@ else:
 
 Please make sure to update tests as appropriate. 👌
 
-1. Fork it (<https://github.com/jeremygautama/Keepwords/fork>)
+1. Fork it (<https://github.com/jeremygautama/SAT-Raw-Score-Converter/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -65,9 +67,6 @@ Please make sure to update tests as appropriate. 👌
 ⭐️ Your **star** means so much. Giving a **star** helps motivate me to make more epic projects that you'll enjoy!
 
 📢 Help spread the word!!!
-
-## License
-📄✔️ The best license. [MIT](https://github.com/jeremygautama/Keepwords/blob/master/LICENSE.md) License.
 
 ## Author
 👤 Jeremy Gautama 
