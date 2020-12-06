@@ -5,6 +5,7 @@ This is the table I used for the convertion:
 
 ![SAT table](https://github.com/jeremygautama/SAT-Raw-Score-Converter/blob/main/images/SATTable.png)
 
+## Code (for Python 3)
 ```bash
 readingRawScore = int(input("Input your Reading raw score (0-52): "))
 if (0 <= readingRawScore <= 52):
