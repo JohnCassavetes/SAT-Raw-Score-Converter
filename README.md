@@ -1,1 +1,4 @@
-# SAT-Raw-Score-Converter
+# SAT Raw Score Converter
+
+## 👤 Author
+Jeremy Gautama
