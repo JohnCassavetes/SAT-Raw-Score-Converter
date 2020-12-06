@@ -3,7 +3,7 @@
 
 This is the table I used for the convertion:
 
-![SAT table](https://github.com/jeremygautama/SAT-Raw-Score-Converter/images/SATTable.png)
+![SAT table](https://github.com/jeremygautama/SAT-Raw-Score-Converter/blob/main/images/SATTable.png)
 
 ```bash
 readingRawScore = int(input("Input your Reading raw score (0-52): "))
